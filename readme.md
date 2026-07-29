@@ -62,5 +62,5 @@
  the following graph includes comparision between actual and predicted temprature :
 
 ![alt text](image.png)
-![alt text](prediction.png)
+![alt text](image-1.png)
   
